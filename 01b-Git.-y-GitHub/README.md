@@ -83,6 +83,7 @@ Recuerda que Git está optimizado para trabajar en equipo, por lo tanto, debemos
 git config --global user.name "tu nombre"
 git config --global user.email "tu@email.com"
 ```
+# nombre y correo ya puestos
 
 Existen muchas otras configuraciones de Git que puedes encontrar en el comando git config --list (o solo git config para ver una explicación más detallada)
 
